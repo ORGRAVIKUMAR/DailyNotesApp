@@ -27,4 +27,4 @@ Welcome to the Notes Pro repository! This Android app allows users to create, ma
 2. Set up your Firebase project and add the `google-services.json` file.
 3. Open the project in Android Studio.
 4. Run the app on your Android device or emulator.
-5. Register or log in to start managing your notes!
+5. Register or log in to start managing your notes! 
